@@ -1,0 +1,7 @@
+{
+  "name": "UMU Attendance",
+  "description": "Usha Martin University B.Tech CSE Attendance Management System with geofence verification, time lock (9:00 AM - 4:29 PM), one-time non-editable attendance, user auth, real-time messaging, dark mode, and notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
